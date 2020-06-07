@@ -4,7 +4,6 @@
 //
 // Execute `rustlings hint clippy1` for hints :)
 
-// I AM NOT DONE
 
 fn main() {
 
